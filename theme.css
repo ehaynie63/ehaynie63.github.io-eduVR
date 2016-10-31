@@ -1,0 +1,90 @@
+<style type="text/css">
+		
+
+			body {
+				color: white;
+				margin:0;
+				padding:0;
+				font-family: Calibri;
+				line-height: 1.5em;
+			}
+			
+
+			header {
+				background:#141b47;
+				height: 75px;
+				color: white;
+			}
+			
+			header h1 {
+				color: white;
+				margin: 0;
+				padding-top: 0px;
+				background-color:color=#141b47; }
+				.highlightme { background-color:#18fd78; 
+				background-color:#1d297d;
+			}
+			
+			main {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 100%;
+				color: white;
+			}
+			
+			nav {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 230px;
+				margin-left: -230px;
+				background: #eee;
+			}
+			
+			footer {
+				clear: left;
+				width: 100%;
+				background: #ccc;
+				text-align: center;
+				padding: 4px 0;
+			}
+	
+			
+
+			#wrapper {
+				overflow: hidden;
+
+			}
+						
+			#content {
+				margin-right: 100px; /* Same as 'nav' width */
+				background-image:url("http://www.tvovermind.com/wp-content/uploads/2016/03/vrlady.jpg");
+   				background-position:center;
+    			width:1100px;
+   				height:250px;
+			}
+			
+			.innertube {
+				margin: 15px; /* Padding for content */
+				margin-top: 0;
+				
+			}
+		
+			p {
+				color: white;
+			}
+	
+			nav ul {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			
+			nav ul a {
+				color: darkgreen;
+				text-decoration: none;
+			}
+		
+		</style>
+		
